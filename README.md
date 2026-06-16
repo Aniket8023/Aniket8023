@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aniket Vijay Solanke
 
-### Software Engineer | Java Developer | Final Year Information Technology Student
+### Software Engineer | Java Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Backend+Engineering+Enthusiast" />
 
