@@ -1,68 +1,51 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aniket8023/Aniket8023/main/Aniket.png" width="220">
-</p>
+<div align="center">
 
-<h1 align="center">Aniket Vijay Solanke</h1>
+# 👋 Hi, I'm Aniket Vijay Solanke
 
-<h3 align="center">Software Engineer | Java Developer | Final Year IT Student</h3>
+### Software Engineer | Java Developer | Final Year Information Technology Student
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Final+Year+IT+Student" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Backend+Engineering+Enthusiast" />
 
-<h1 align="center">👋 Hi, I'm Aniket Vijay Solanke</h1>
+<br>
 
-<h3 align="center">Software Engineer • Java Developer • Final Year IT Student</h3>
+<img src="https://komarev.com/ghpvc/?username=Aniket8023&label=Profile+Views&style=for-the-badge&color=blue" />
 
-<p align="center">
-<a href="https://github.com/Aniket8023">
-<img src="https://komarev.com/ghpvc/?username=Aniket8023&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Final Year Information Technology Student
+🎓 Final Year Information Technology Student at SKN Sinhgad Institute of Technology & Science, Pune
 
-💼 Software Engineer Intern at Intern Labs, Pune (6 Months)
+💼 Software Engineer Intern at Intern Labs, Pune (Jun 2025 – Nov 2025)
 
-☕ Passionate about Java Backend Development, Spring Boot, REST APIs and Database Design
+☕ Passionate about Software Engineering, Java Backend Development, Spring Boot, REST APIs and Database Design
 
-📚 Currently learning DSA, System Design and Enterprise Application Development
+📚 Currently Learning
 
-🎯 Looking for Software Engineer and Java Developer Opportunities
+* Data Structures & Algorithms
+* System Design
+* Enterprise Application Development
+* Software Architecture
 
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+🎯 Looking for Software Engineer Opportunities
 
 ---
 
-# 🏢 Experience
+## 💻 Tech Stack
 
-## Software Engineer Intern | Intern Labs, Pune
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,postman" />
+
+</div>
+
+---
+
+## 🏢 Experience
+
+### Software Engineer Intern | Intern Labs, Pune
 
 📅 Jun 2025 – Nov 2025
 
@@ -70,21 +53,19 @@
 
 ✔ Backend Validation & Debugging
 
-✔ MySQL Database Verification
+✔ REST API Verification
 
-✔ REST API Testing
+✔ MySQL Database Testing
 
-✔ Software Development Workflow Exposure
+✔ Exposure to Software Development Workflows
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏥 Hospital Management System
+### 🏥 Hospital Management System
 
-Built using Spring Boot, React and MySQL.
-
-### Features
+**Tech Stack:** Spring Boot • React • MySQL
 
 * Patient Management
 * Doctor Management
@@ -96,34 +77,30 @@ Built using Spring Boot, React and MySQL.
 
 ---
 
-## 💼 Job Aggregator Platform
+### 💼 Job Aggregator Platform
 
-Smart Job Search Platform integrating multiple job APIs.
+**Tech Stack:** Spring Boot • REST APIs • MySQL
 
-### Features
-
-* Real Time Job Search
-* Resume Based Recommendation
-* Location Based Filtering
-* Salary Based Filtering
+* Real-Time Job Search
+* Resume-Based Recommendations
+* Location Filtering
+* Salary Filtering
 * User Authentication
 
 ---
 
-## 🛒 Online Shopping System
+### 🛒 Online Shopping System
 
-Backend application developed using Java, Spring Boot and MySQL.
-
-### Features
+**Tech Stack:** Spring Boot • MySQL
 
 * Product Management
-* Authentication
+* User Authentication
 * Database Integration
-* REST APIs
+* REST API Development
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 🥇 First Rank in HSC Examination
 
@@ -131,48 +108,83 @@ Backend application developed using Java, Spring Boot and MySQL.
 
 🎓 NPTEL Certified in Programming in Java
 
-🏅 Department Student Association Member
+🏅 Member, Department Student Association
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniket8023&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket8023&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
-</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket8023&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🏅 GitHub Trophies
+## 🏅 Trophy Cabinet
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aniket8023&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aniket8023&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket8023&theme=tokyo-night"/>
-</p>
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 Current Focus
 
-📧 [aniketsolanke1404@gmail.com](mailto:aniketsolanke1404@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/aniket-solanke-0a993325a/
-
-🐙 GitHub:
-https://github.com/Aniket8023
+* Backend Engineering
+* Java Ecosystem
+* Spring Boot
+* REST APIs
+* System Design
+* Data Structures & Algorithms
 
 ---
 
-<h3 align="center">
-Building Software That Solves Real Problems 🚀
-</h3>
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:aniketsolanke1404@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/aniket-solanke-0a993325a/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Aniket8023">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building Software That Solves Real-World Problems
+
+</div>
