@@ -1,116 +1,121 @@
-# Hi 👋, I'm Aniket Vijay Solanke
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Aniket+Vijay+Solanke;Software+Engineer;Final+Year+IT+Student;Java+%7C+Spring+Boot+%7C+MySQL;Building+Real+World+Applications" />
+</p>
 
-### Software Engineer | Final Year Information Technology Student
+<h1 align="center">👋 Hi, I'm Aniket Vijay Solanke</h1>
+
+<h3 align="center">Software Engineer • Java Developer • Final Year IT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Developer;Spring+Boot+Enthusiast;Building+Scalable+Backend+Applications" />
+<a href="https://github.com/Aniket8023">
+<img src="https://komarev.com/ghpvc/?username=Aniket8023&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Final Year B.E. Information Technology Student at SKN Sinhgad Institute of Technology & Science, Pune
+🎓 Final Year Information Technology Student
 
-💼 Worked as a Software Engineer Intern at Intern Labs, Pune
+💼 Software Engineer Intern at Intern Labs, Pune (6 Months)
 
-☕ Passionate about Java, Backend Development, REST APIs, Database Design, and Software Engineering
+☕ Passionate about Java Backend Development, Spring Boot, REST APIs and Database Design
 
-📚 Currently strengthening Data Structures & Algorithms, System Design, and Enterprise Application Development
+📚 Currently learning DSA, System Design and Enterprise Application Development
 
-🎯 Seeking opportunities as a Software Engineer / Java Developer
+🎯 Looking for Software Engineer and Java Developer Opportunities
 
 ---
 
-## 💻 Technical Skills
+# 💻 Tech Stack
 
 ### Languages
 
-Java • SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Backend
 
-Spring Boot • REST APIs
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ### Database
 
-MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Tools
 
-Git • GitHub • Postman
-
-### Core Concepts
-
-Object Oriented Programming (OOP)
-
-Data Structures & Algorithms
-
-Database Management Systems (DBMS)
-
-Software Development Lifecycle
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
 
 ---
 
-## 🏢 Experience
+# 🏢 Experience
 
-### Software Engineer Intern | Intern Labs, Pune
+## Software Engineer Intern | Intern Labs, Pune
 
-**Jun 2025 – Nov 2025**
+📅 Jun 2025 – Nov 2025
 
-* Worked on API testing and backend validation using Postman
-* Validated backend services with MySQL database integration
-* Assisted in debugging and resolving backend issues
-* Gained practical exposure to software development workflows and backend engineering
+✔ API Testing using Postman
+
+✔ Backend Validation & Debugging
+
+✔ MySQL Database Verification
+
+✔ REST API Testing
+
+✔ Software Development Workflow Exposure
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
 
-A complete hospital administration platform built using Spring Boot, React, and MySQL.
+Built using Spring Boot, React and MySQL.
 
-**Key Modules**
+### Features
 
 * Patient Management
 * Doctor Management
 * Appointment Scheduling
 * Billing Management
-* Inventory Management
 * Supplier Management
+* Inventory Management
 * Authentication & Authorization
 
 ---
 
-### 💼 Job Aggregator Platform
+## 💼 Job Aggregator Platform
 
-A smart job search platform that aggregates opportunities from multiple job providers.
+Smart Job Search Platform integrating multiple job APIs.
 
-**Features**
+### Features
 
-* Real-time Job Search
-* Resume-Based Recommendations
-* Location Filtering
-* Salary Filtering
-* Authentication & User Management
+* Real Time Job Search
+* Resume Based Recommendation
+* Location Based Filtering
+* Salary Based Filtering
+* User Authentication
 
 ---
 
-### 🛒 Online Shopping System
+## 🛒 Online Shopping System
 
-Backend-focused e-commerce application developed using Java, Spring Boot, and MySQL.
+Backend application developed using Java, Spring Boot and MySQL.
 
-**Features**
+### Features
 
 * Product Management
-* User Authentication
+* Authentication
 * Database Integration
-* REST API Architecture
+* REST APIs
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 First Rank in HSC Examination
 
@@ -122,23 +127,44 @@ Backend-focused e-commerce application developed using Java, Spring Boot, and My
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniket8023&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket8023&layout=compact&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniket8023&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket8023&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏅 GitHub Trophies
 
-📧 [aniketsolanke1404@gmail.com](mailto:aniketsolanke1404@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/aniket-solanke-0a993325a
-
-🐙 GitHub: github.com/Aniket8023
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aniket8023&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-### "Learning, Building and Growing as a Software Engineer."
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket8023&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 [aniketsolanke1404@gmail.com](mailto:aniketsolanke1404@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/aniket-solanke-0a993325a/
+
+🐙 GitHub:
+https://github.com/Aniket8023
+
+---
+
+<h3 align="center">
+Building Software That Solves Real Problems 🚀
+</h3>
