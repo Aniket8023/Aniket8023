@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Aniket Vijay Solanke
+<img src="https://raw.githubusercontent.com/Aniket8023/Aniket8023/main/Banner.png" width="100%"/>
 
-### Software Engineer | Java Developer | Final Year Information Technology Student
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Backend+Engineering+Enthusiast" />
 
@@ -12,62 +12,42 @@
 
 <img src="https://img.shields.io/github/followers/Aniket8023?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Aniket8023?style=for-the-badge"/>
-
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 Final Year Information Technology Student at **SKN Sinhgad Institute of Technology & Science, Pune**
 
-💼 Software Engineer Intern at **Intern Labs, Pune** (Jun 2025 – Nov 2025)
+💼 Software Engineer Intern at **Intern Labs, Pune**
 
 ☕ Passionate about Software Engineering, Java Backend Development, Spring Boot, REST APIs and Database Design
 
-📚 Currently Learning
+📚 Currently Exploring
 
 * Data Structures & Algorithms
 * System Design
-* Enterprise Application Development
 * Software Architecture
+* Enterprise Application Development
 
-🎯 Looking for **Software Engineer Opportunities**
+🎯 Seeking Software Engineer Opportunities
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,postman" />
 
 </div>
 
 ---
 
-# 🏢 Experience
+## 🚀 Featured Projects
 
-## Software Engineer Intern | Intern Labs
-
-📅 Jun 2025 – Nov 2025
-
-✔ API Testing using Postman
-
-✔ Backend Validation & Debugging
-
-✔ REST API Verification
-
-✔ MySQL Database Testing
-
-✔ Exposure to Software Development Workflows
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 Hospital Management System
+### 🏥 Hospital Management System
 
 **Spring Boot • React • MySQL**
 
@@ -77,37 +57,38 @@
 * Billing Management
 * Supplier Management
 * Inventory Management
-* Authentication & Authorization
+* Role Based Access Control
 
 ---
 
-## 💼 Job Aggregator Platform
+### 💼 Job Aggregator Platform
 
 **Spring Boot • REST APIs • MySQL**
 
 * Real-Time Job Search
-* Resume-Based Recommendations
+* Resume Based Recommendations
 * Location Filtering
 * Salary Filtering
-* User Authentication
+* Authentication & Authorization
 
 ---
 
-## 🛒 Online Shopping System
+### 🛒 Online Shopping System
 
 **Spring Boot • MySQL**
 
 * Product Management
-* User Authentication
+* Authentication
+* REST APIs
 * Database Integration
-* REST API Development
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```java
-class Aniket {
+public class Aniket {
+
     String role = "Software Engineer";
     String language = "Java";
     String backend = "Spring Boot";
@@ -124,7 +105,7 @@ class Aniket {
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 🥇 First Rank in HSC Examination
 
@@ -132,11 +113,11 @@ class Aniket {
 
 🎓 NPTEL Certified in Programming in Java
 
-🏅 Department Student Association Member
+🏅 Member, Department Student Association
 
 ---
 
-# 📊 GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -156,7 +137,7 @@ class Aniket {
 
 ---
 
-# 🏅 Trophy Cabinet
+## 🏅 Trophy Cabinet
 
 <div align="center">
 
@@ -166,7 +147,7 @@ class Aniket {
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -176,7 +157,7 @@ class Aniket {
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -186,7 +167,7 @@ class Aniket {
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
