@@ -2,23 +2,27 @@
 
 # 👋 Hi, I'm Aniket Vijay Solanke
 
-### Software Engineer | Java Developer 
+### Software Engineer | Java Developer | Final Year Information Technology Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Backend+Engineering+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Backend+Engineering+Enthusiast" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Aniket8023&label=Profile+Views&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Aniket8023&label=Profile+Views&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Aniket8023?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Aniket8023?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Final Year Information Technology Student at SKN Sinhgad Institute of Technology & Science, Pune
+🎓 Final Year Information Technology Student at **SKN Sinhgad Institute of Technology & Science, Pune**
 
-💼 Software Engineer Intern at Intern Labs, Pune (Jun 2025 – Nov 2025)
+💼 Software Engineer Intern at **Intern Labs, Pune** (Jun 2025 – Nov 2025)
 
 ☕ Passionate about Software Engineering, Java Backend Development, Spring Boot, REST APIs and Database Design
 
@@ -29,23 +33,23 @@
 * Enterprise Application Development
 * Software Architecture
 
-🎯 Looking for Software Engineer Opportunities
+🎯 Looking for **Software Engineer Opportunities**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,postman"/>
 
 </div>
 
 ---
 
-## 🏢 Experience
+# 🏢 Experience
 
-### Software Engineer Intern | Intern Labs, Pune
+## Software Engineer Intern | Intern Labs
 
 📅 Jun 2025 – Nov 2025
 
@@ -61,11 +65,11 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
 
-**Tech Stack:** Spring Boot • React • MySQL
+**Spring Boot • React • MySQL**
 
 * Patient Management
 * Doctor Management
@@ -77,9 +81,9 @@
 
 ---
 
-### 💼 Job Aggregator Platform
+## 💼 Job Aggregator Platform
 
-**Tech Stack:** Spring Boot • REST APIs • MySQL
+**Spring Boot • REST APIs • MySQL**
 
 * Real-Time Job Search
 * Resume-Based Recommendations
@@ -89,9 +93,9 @@
 
 ---
 
-### 🛒 Online Shopping System
+## 🛒 Online Shopping System
 
-**Tech Stack:** Spring Boot • MySQL
+**Spring Boot • MySQL**
 
 * Product Management
 * User Authentication
@@ -100,7 +104,27 @@
 
 ---
 
-## 🏆 Achievements
+# 🎯 Current Focus
+
+```java
+class Aniket {
+    String role = "Software Engineer";
+    String language = "Java";
+    String backend = "Spring Boot";
+    String database = "MySQL";
+
+    String[] learning = {
+        "DSA",
+        "System Design",
+        "Software Architecture",
+        "Backend Engineering"
+    };
+}
+```
+
+---
+
+# 🏆 Achievements
 
 🥇 First Rank in HSC Examination
 
@@ -108,11 +132,11 @@
 
 🎓 NPTEL Certified in Programming in Java
 
-🏅 Member, Department Student Association
+🏅 Department Student Association Member
 
 ---
 
-## 📊 GitHub Dashboard
+# 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -132,7 +156,7 @@
 
 ---
 
-## 🏅 Trophy Cabinet
+# 🏅 Trophy Cabinet
 
 <div align="center">
 
@@ -142,7 +166,7 @@
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -152,31 +176,30 @@
 
 ---
 
-## 🎯 Current Focus
+# 🐍 Contribution Snake
 
-* Backend Engineering
-* Java Ecosystem
-* Spring Boot
-* REST APIs
-* System Design
-* Data Structures & Algorithms
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aniket8023/Aniket8023/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:aniketsolanke1404@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aniket-solanke-0a993325a/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/Aniket8023">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </div>
@@ -186,5 +209,7 @@
 <div align="center">
 
 ### 🚀 Building Software That Solves Real-World Problems
+
+*"Code. Learn. Build. Repeat."*
 
 </div>
