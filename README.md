@@ -7,9 +7,8 @@
 <h3 align="center">Software Engineer | Java Developer | Final Year IT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Aniket+Vijay+Solanke;Software+Engineer;Final+Year+IT+Student;Java+%7C+Spring+Boot+%7C+MySQL;Building+Real+World+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Final+Year+IT+Student" />
 </p>
-
 
 <h1 align="center">👋 Hi, I'm Aniket Vijay Solanke</h1>
 
