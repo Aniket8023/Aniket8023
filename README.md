@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Aniket Vijay Solanke 👋
 
-<!--
-**Aniket8023/Aniket8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Full Stack Java Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about Spring Boot, React, MySQL, and Software Development
+
+📍 Pune, India
+
+🌱 Currently learning System Design and DSA
+
+## 🛠 Tech Stack
+
+- Java
+- SQL
+- OOP, DSA, DBMS, OS, SDLC
+- Spring Boot
+- React
+- MySQL
+- MongoDB
+- Git & GitHub
+- Postman
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket8023&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket8023&layout=compact)
+
+## 🏆 Achievements
+
+💼 Software Engineer Internship Completed
+
+🚀 Developed Hospital Management System
+
+🚀 Developed Job Aggregator Portal
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/aniket-solanke-0a993325a/
+
+Portfolio: https://portfolio-amber-delta-59.vercel.app/
+
+Email: aniketsolanke1404@@gmail.com
