@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Aniket Solanke
+
 
 <div align="center">
+# 👋 Hi, I'm Aniket Solanke
 
 ### Full Stack Java Developer | Software Engineer | Spring Boot Developer
 
