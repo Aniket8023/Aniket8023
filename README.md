@@ -1,16 +1,22 @@
-<div align="center"
-                     Hi I AM Aniket Solanke
-<br><br>
+<div align="center">
+
+# 👋 Hi, I'm Aniket Solanke
+
+### Software Engineer | Java Developer | Spring Boot Developer
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Backend+Engineering+Enthusiast" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Aniket8023&label=Profile+Views&style=for-the-badge&color=blue"/>
 
 <img src="https://img.shields.io/github/followers/Aniket8023?style=for-the-badge"/>
 
 </div>
+
+---
 
 ---
 
