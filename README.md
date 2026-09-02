@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aniket8023/Aniket8023/main/Banner.png" width="100%"/>
+<div align="center"
 
 <br><br>
 
